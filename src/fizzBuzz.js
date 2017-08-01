@@ -1,0 +1,3 @@
+function FizzBuzz(){
+  return 'Fizz';
+};
